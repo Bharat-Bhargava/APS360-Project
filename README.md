@@ -1,6 +1,6 @@
 # APS360 Project Team 34: Heart Event Prediction
 
-**Team Members:** Daivik Dhar, Zijin Zhou, Michael Silver, Bharat Bhargava!:
+**Team Members:** Daivik Dhar, Zijin Zhou, Michael Silver, Bharat Bhargava
 
 ## Project Description
 This project utilizes machine learning models, specifically LSTM networks or transformer encoders, to predict the likelihood of a patient experiencing a cardiovascular event based on physiological data. The analysis focuses on supervised learning using datasets containing ECG recordings and potentially other vital signs like heart rate and blood pressure.
